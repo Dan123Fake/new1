@@ -1,0 +1,32 @@
+* {
+    color: rgb(255, 255, 255);
+}
+
+body {
+    background-color: rgb(69, 69, 69);
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+header {
+    background-color: rgb(25, 25, 25);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: normal;
+    border-radius: 0px 25px 25px 0px;
+}
+
+div {
+    text-align: center;
+    background-color: rgb(25, 25, 25);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: normal;
+    border-radius: 25px 25px 25px 25px;
+}
+
+button {
+    border-radius: 25px 25px 25px 25px;
+    border-color: transparent;
+    background-color: rgb(45, 45, 45);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 200px;
+}
